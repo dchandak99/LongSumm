@@ -1,0 +1,2 @@
+- [tokenize.ipynb](tokenize.ipynb) has to be set with appropriae paths and it will tokenize the contents of a paper parsed in txt using stanford-core-nlp. It uses [toks.sh](toks.sh)  
+- [Sample input paper](Programming_with_a_Differentiable_Forth_Interpreter) is given with the sample output in [tokenized](tokenised)
